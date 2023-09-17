@@ -1,0 +1,49 @@
+name: user_demo
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.6.5
+  email_validator: ^2.1.17
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.2
+  sliding_up_panel: ^2.0.0+1
+  # camera: ^0.10.3+2
+  # image: ^4.0.16
+  # google_mlkit_face_detection: ^0.6.0
+  deepar_flutter: ^0.0.5
+  permission_handler: ^10.2.0
+  open_file: ^3.3.1
+  mongo_dart: ^0.9.1
+  smooth_page_indicator: ^1.1.0
+  uuid: ^3.0.7
+  scroll_loop_auto_scroll: ^0.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/effects/
+    - assets/images/products/sunglasses/
+    - assets/images/products/glasses/
+    - assets/images/ui/
+
+  fonts:
+    - family: sst_arabic_roman
+      fonts:
+        - asset: assets\fonts\sst_arabic_roman\SST Arabic Roman.ttf 
+    - family: varela_round
+      fonts:
+        - asset: assets\fonts\varela_round\VarelaRound-Regular.ttf
