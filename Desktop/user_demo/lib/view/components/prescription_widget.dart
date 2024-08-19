@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:user_demo/controller/ui_controller.dart';
 import 'package:user_demo/controller/user_controller.dart';
-import 'package:user_demo/model/item.dart';
 import 'package:user_demo/model/product.dart';
 import 'package:user_demo/utils/ui_constants.dart';
 

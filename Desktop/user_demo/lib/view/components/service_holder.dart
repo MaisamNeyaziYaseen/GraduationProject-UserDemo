@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:user_demo/utils/ui_constants.dart';
-import 'package:user_demo/controller/ui_controller.dart';
 import 'package:user_demo/view/components/customized_rounded_button.dart';
 import 'package:user_demo/view/main_screens/optometrists.dart';
 import 'package:user_demo/view/main_screens/vision_tests.dart';

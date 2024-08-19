@@ -1,11 +1,9 @@
 import 'package:get/get.dart';
 import 'package:mongo_dart/mongo_dart.dart';
 import 'package:user_demo/model/item.dart';
-import 'package:user_demo/model/order.dart';
 import 'package:user_demo/model/user.dart';
 import 'package:user_demo/services/monogdb/monogdb_atlas_service.dart';
 import '../utils/enums.dart';
-import 'package:user_demo/model/location_info.dart';
 
 class UserController extends GetxController {
   //TODO: reconstruct controller (_dob,_gender)

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:user_demo/controller/ui_controller.dart';
 import 'package:user_demo/view/components/customized_app_bar.dart';
 import 'package:user_demo/view/components/service_holder.dart';

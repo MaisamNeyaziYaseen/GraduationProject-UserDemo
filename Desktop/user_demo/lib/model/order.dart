@@ -1,5 +1,4 @@
 import 'package:mongo_dart/mongo_dart.dart';
-import 'package:user_demo/model/item.dart';
 
 class Order {
   ObjectId? id;

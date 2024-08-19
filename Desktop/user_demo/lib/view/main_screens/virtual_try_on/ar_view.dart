@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'package:deepar_flutter/deepar_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:user_demo/model/item.dart';
-import 'package:user_demo/model/product.dart';
 
 class ArView extends StatefulWidget {
   Item item;

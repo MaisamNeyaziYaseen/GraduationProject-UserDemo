@@ -1,11 +1,8 @@
-import 'package:flutter/material.dart';
 import 'package:mongo_dart/mongo_dart.dart';
 import 'package:user_demo/model/initial_diagnosis.dart';
-import 'package:user_demo/model/iso_date.dart';
 import 'appointment.dart';
 import 'diagnosis.dart';
 import 'location_info.dart';
-import 'order.dart';
 
 class User {
   ObjectId? id;

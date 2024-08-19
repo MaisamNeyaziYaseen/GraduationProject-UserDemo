@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:user_demo/controller/ui_controller.dart';
 import 'package:user_demo/view/main_screens/appointments.dart';
 import 'package:user_demo/view/main_screens/diagnoses.dart';
 import 'package:user_demo/view/main_screens/orders.dart';

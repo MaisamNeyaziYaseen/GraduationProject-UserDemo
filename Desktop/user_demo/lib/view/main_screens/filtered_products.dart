@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:user_demo/controller/product_controller.dart';
 import 'package:user_demo/model/product.dart';
 import 'package:user_demo/view/components/product_holder.dart';
 
